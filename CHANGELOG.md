@@ -1,5 +1,7 @@
 # Changelog
 
+## [v1.10.1](https://github.com/hezhizhen/ghq/commits/v1.10.1) - 2026-07-14
+
 ## [v1.10.1](https://github.com/x-motemen/ghq/compare/v1.10.0...v1.10.1) - 2026-04-11
 - feat(rm): make ghq rm worktree-aware by @chris-monardo in https://github.com/x-motemen/ghq/pull/481
 
